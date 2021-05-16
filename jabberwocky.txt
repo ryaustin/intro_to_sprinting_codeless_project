@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Ryan's Jabberwocky
 by Lewis Carroll
+=======
+Jabberwocky
+by Lewis Carroll the author of this poem
+>>>>>>> de8cd03bc20156fd7143d3ef6692c84de26da2e7
 
 ’Twas brillig, and the slithy toves 
       Did gyre and gimble in the wabe: 
